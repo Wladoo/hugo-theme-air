@@ -15,5 +15,4 @@ tags = ["blog"]
 
 > Below you will find some of the most common and helpful pages from our documentation.
 
-https://gohugo.io/documentation/
-
+<https://gohugo.io/documentation/>
